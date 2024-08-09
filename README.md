@@ -10,7 +10,7 @@ Welcome to my Arch Linux i3WM configuration repository. This is where the magic 
 
 ## Preview
 
-Get a feel for the setup by watching this video showcasing the configurations in action:
+Get a feel for the setup by watching this video showcasing the configurations in action [Reddit](https://www.reddit.com/r/unixporn/s/umJNWvcOfQ):
 
 [![Setup Preview](./preview.png)](./preview.mp4)
 
@@ -45,5 +45,5 @@ If you like the Polybar setup in this configuration, be sure to check out my ded
 ---
 
 Thanks for visiting, and happy ricing!
-
+[Back to reddit](https://www.reddit.com/r/unixporn/s/umJNWvcOfQ)
 
