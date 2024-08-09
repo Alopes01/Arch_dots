@@ -12,7 +12,7 @@ Welcome to my Arch Linux i3WM configuration repository. This is where the magic 
 
 Get a feel for the setup by watching this video showcasing the configurations in action:
 
-[![Setup Preview](./Wallpapers/preview.png)](./preview.mp4)
+[![Setup Preview](./preview.png)](./preview.mp4)
 
 ## Second Rice
 
