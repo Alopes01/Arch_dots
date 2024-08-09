@@ -12,13 +12,13 @@ Welcome to my Arch Linux i3WM configuration repository. This is where the magic 
 
 Get a feel for the setup by watching this video showcasing the configurations in action:
 
-[![Setup Preview](./Wallpapers/glass-sphere.jpg)](./Workflow/preview.mp4)
+[![Setup Preview](./Wallpapers/glass-sphere.jpg)](./preview.mp4)
 
 ## Second Rice
 
 | **Contents**               | **Where**                                   | **Sources** |
 |----------------------------|---------------------------------------------|-------------|
-| **OS**                     | Arch Linux                                  | 󰣇         |
+| **OS**                     | Arch Linux                                  | ...         |
 | **Window Manager**         | [i3WM](./i3/config)                  | ...         |
 | **Bar**                    | [Polybar](./polybar)            | ...         |
 | **Launcher**               | [Rofi](./rofi)                  | [adi1090x/rofi](https://github.com/adi1090x/rofi) |
