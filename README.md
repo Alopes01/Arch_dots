@@ -37,3 +37,13 @@ Get a feel for the setup by watching this video showcasing the configurations in
 Here is the wallpaper included in this setup:
 
 ![Wallpaper1](./Wallpapers/glass-sphere.jpg)
+
+## Check Out My Aesthetic Polybar Repo
+
+If you like the Polybar setup in this configuration, be sure to check out my dedicated Polybar repository: [Aesthetic-Polybar](https://github.com/Alopes01/Aesthetic-Polybar). It's packed with sleek and customizable bars that can elevate the look of your desktop even further.
+
+---
+
+Thanks for visiting, and happy ricing!
+
+
